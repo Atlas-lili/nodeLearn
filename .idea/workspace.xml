@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="987d11ae-c846-4ae1-b0f5-64f16f642ca9" name="Default Changelist" comment="" />
+    <list default="true" id="987d11ae-c846-4ae1-b0f5-64f16f642ca9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymongo/WiredTiger.turtle" beforeDir="false" afterPath="$PROJECT_DIR$/mymongo/WiredTiger.turtle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymongo/WiredTiger.wt" beforeDir="false" afterPath="$PROJECT_DIR$/mymongo/WiredTiger.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymongo/_mdb_catalog.wt" beforeDir="false" afterPath="$PROJECT_DIR$/mymongo/_mdb_catalog.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymongo/collection-2-6005325678050078537.wt" beforeDir="false" afterPath="$PROJECT_DIR$/mymongo/collection-2-6005325678050078537.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymongo/collection-4-6005325678050078537.wt" beforeDir="false" afterPath="$PROJECT_DIR$/mymongo/collection-4-6005325678050078537.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymongo/collection-7-6005325678050078537.wt" beforeDir="false" afterPath="$PROJECT_DIR$/mymongo/collection-7-6005325678050078537.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymongo/index-3-6005325678050078537.wt" beforeDir="false" afterPath="$PROJECT_DIR$/mymongo/index-3-6005325678050078537.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymongo/index-5-6005325678050078537.wt" beforeDir="false" afterPath="$PROJECT_DIR$/mymongo/index-5-6005325678050078537.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymongo/index-6-6005325678050078537.wt" beforeDir="false" afterPath="$PROJECT_DIR$/mymongo/index-6-6005325678050078537.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymongo/index-8-6005325678050078537.wt" beforeDir="false" afterPath="$PROJECT_DIR$/mymongo/index-8-6005325678050078537.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymongo/journal/WiredTigerLog.0000000002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymongo/mongod.lock" beforeDir="false" afterPath="$PROJECT_DIR$/mymongo/mongod.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymongo/sizeStorer.wt" beforeDir="false" afterPath="$PROJECT_DIR$/mymongo/sizeStorer.wt" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,81 +31,63 @@
     <session id="-1979583299">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.0" value="3" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="1" />
-          <entry key="js" value="18" />
-          <entry key="json" value="5" />
+          <entry key="ejs" value="2" />
+          <entry key="html" value="2" />
+          <entry key="js" value="32" />
+          <entry key="json" value="9" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="1" />
-          <entry key="JSON" value="5" />
-          <entry key="JavaScript" value="18" />
+          <entry key="EJS" value="1" />
+          <entry key="HTML" value="2" />
+          <entry key="JSON" value="9" />
+          <entry key="JavaScript" value="32" />
           <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="15" />
-          <entry key="JSON" value="41" />
-          <entry key="JavaScript" value="3952" />
+          <entry key="EJS" value="84" />
+          <entry key="HTML" value="20" />
+          <entry key="JSON" value="48" />
+          <entry key="JavaScript" value="6749" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="15" />
-          <entry key="js" value="3952" />
-          <entry key="json" value="41" />
+          <entry key="ejs" value="84" />
+          <entry key="html" value="20" />
+          <entry key="js" value="6749" />
+          <entry key="json" value="48" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day02/services.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day03/services.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day03/chunk.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -111,6 +109,17 @@
         <option value="$PROJECT_DIR$/day02/services.js" />
         <option value="$PROJECT_DIR$/day03/chunk.js" />
         <option value="$PROJECT_DIR$/day03/services.js" />
+        <option value="$PROJECT_DIR$/day04/index.js" />
+        <option value="$PROJECT_DIR$/day04/package.json" />
+        <option value="$PROJECT_DIR$/day04/modules/content-type/index.js" />
+        <option value="$PROJECT_DIR$/day04/modules/static-load/content-type/index.js" />
+        <option value="$PROJECT_DIR$/day04/modules/static-load/index.js" />
+        <option value="$PROJECT_DIR$/day04/modules/router/index.js" />
+        <option value="$PROJECT_DIR$/day04/service.js" />
+        <option value="$PROJECT_DIR$/day04/static/crawler.js" />
+        <option value="$PROJECT_DIR$/day04/express01/views/home.html" />
+        <option value="$PROJECT_DIR$/day04/express01/index.js" />
+        <option value="$PROJECT_DIR$/day04/express01/views/home.ejs" />
       </list>
     </option>
   </component>
@@ -124,199 +133,19 @@
     <handled-path value="$PROJECT_DIR$/day01/node_modules" />
     <handled-path value="$PROJECT_DIR$/day02/node_modules" />
     <handled-path value="$PROJECT_DIR$/day03/node_modules" />
+    <handled-path value="$PROJECT_DIR$/day04/express01/node_modules" />
+    <handled-path value="$PROJECT_DIR$/day04/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
       <path value="$PROJECT_DIR$/day01/package.json" />
       <path value="$PROJECT_DIR$/day02/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/@types/node/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_@types_node@10.12.5@@types/node/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_boolbase@1.0.0@boolbase/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_cheerio@1.0.0-rc.2@cheerio/node_modules/css-select/node_modules/boolbase/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_cheerio@1.0.0-rc.2@cheerio/node_modules/css-select/node_modules/css-what/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_cheerio@1.0.0-rc.2@cheerio/node_modules/css-select/node_modules/domutils/node_modules/dom-serializer/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_cheerio@1.0.0-rc.2@cheerio/node_modules/css-select/node_modules/domutils/node_modules/dom-serializer/node_modules/entities/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_cheerio@1.0.0-rc.2@cheerio/node_modules/css-select/node_modules/domutils/node_modules/dom-serializer/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_cheerio@1.0.0-rc.2@cheerio/node_modules/css-select/node_modules/domutils/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_cheerio@1.0.0-rc.2@cheerio/node_modules/css-select/node_modules/domutils/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_cheerio@1.0.0-rc.2@cheerio/node_modules/css-select/node_modules/nth-check/node_modules/boolbase/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_cheerio@1.0.0-rc.2@cheerio/node_modules/css-select/node_modules/nth-check/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_cheerio@1.0.0-rc.2@cheerio/node_modules/css-select/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_cheerio@1.0.0-rc.2@cheerio/node_modules/dom-serializer/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_cheerio@1.0.0-rc.2@cheerio/node_modules/dom-serializer/node_modules/entities/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_cheerio@1.0.0-rc.2@cheerio/node_modules/dom-serializer/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_cheerio@1.0.0-rc.2@cheerio/node_modules/entities/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_cheerio@1.0.0-rc.2@cheerio/node_modules/htmlparser2/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_cheerio@1.0.0-rc.2@cheerio/node_modules/htmlparser2/node_modules/domhandler/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_cheerio@1.0.0-rc.2@cheerio/node_modules/htmlparser2/node_modules/domhandler/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_cheerio@1.0.0-rc.2@cheerio/node_modules/htmlparser2/node_modules/domutils/node_modules/dom-serializer/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_cheerio@1.0.0-rc.2@cheerio/node_modules/htmlparser2/node_modules/domutils/node_modules/dom-serializer/node_modules/entities/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_cheerio@1.0.0-rc.2@cheerio/node_modules/htmlparser2/node_modules/domutils/node_modules/dom-serializer/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_cheerio@1.0.0-rc.2@cheerio/node_modules/htmlparser2/node_modules/domutils/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_cheerio@1.0.0-rc.2@cheerio/node_modules/htmlparser2/node_modules/domutils/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_cheerio@1.0.0-rc.2@cheerio/node_modules/htmlparser2/node_modules/entities/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_cheerio@1.0.0-rc.2@cheerio/node_modules/htmlparser2/node_modules/inherits/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_cheerio@1.0.0-rc.2@cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/inherits/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_cheerio@1.0.0-rc.2@cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/string_decoder/node_modules/safe-buffer/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_cheerio@1.0.0-rc.2@cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/string_decoder/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_cheerio@1.0.0-rc.2@cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/util-deprecate/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_cheerio@1.0.0-rc.2@cheerio/node_modules/htmlparser2/node_modules/readable-stream/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_cheerio@1.0.0-rc.2@cheerio/node_modules/htmlparser2/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_cheerio@1.0.0-rc.2@cheerio/node_modules/lodash/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_cheerio@1.0.0-rc.2@cheerio/node_modules/parse5/node_modules/@types/node/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_cheerio@1.0.0-rc.2@cheerio/node_modules/parse5/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_cheerio@1.0.0-rc.2@cheerio/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_css-select@1.2.0@css-select/node_modules/boolbase/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_css-select@1.2.0@css-select/node_modules/css-what/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_css-select@1.2.0@css-select/node_modules/domutils/node_modules/dom-serializer/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_css-select@1.2.0@css-select/node_modules/domutils/node_modules/dom-serializer/node_modules/entities/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_css-select@1.2.0@css-select/node_modules/domutils/node_modules/dom-serializer/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_css-select@1.2.0@css-select/node_modules/domutils/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_css-select@1.2.0@css-select/node_modules/domutils/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_css-select@1.2.0@css-select/node_modules/nth-check/node_modules/boolbase/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_css-select@1.2.0@css-select/node_modules/nth-check/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_css-select@1.2.0@css-select/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_css-what@2.1.2@css-what/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_dom-serializer@0.1.0@dom-serializer/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_dom-serializer@0.1.0@dom-serializer/node_modules/entities/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_dom-serializer@0.1.0@dom-serializer/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_domelementtype@1.1.3@domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_domelementtype@1.2.1@domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_domelementtype@1.3.0@domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_domhandler@2.4.2@domhandler/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_domhandler@2.4.2@domhandler/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_domutils@1.5.1@domutils/node_modules/dom-serializer/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_domutils@1.5.1@domutils/node_modules/dom-serializer/node_modules/entities/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_domutils@1.5.1@domutils/node_modules/dom-serializer/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_domutils@1.5.1@domutils/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_domutils@1.5.1@domutils/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_domutils@1.7.0@domutils/node_modules/dom-serializer/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_domutils@1.7.0@domutils/node_modules/dom-serializer/node_modules/entities/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_domutils@1.7.0@domutils/node_modules/dom-serializer/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_domutils@1.7.0@domutils/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_domutils@1.7.0@domutils/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_entities@1.1.2@entities/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_htmlparser2@3.10.0@htmlparser2/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_htmlparser2@3.10.0@htmlparser2/node_modules/domhandler/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_htmlparser2@3.10.0@htmlparser2/node_modules/domhandler/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_htmlparser2@3.10.0@htmlparser2/node_modules/domutils/node_modules/dom-serializer/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_htmlparser2@3.10.0@htmlparser2/node_modules/domutils/node_modules/dom-serializer/node_modules/entities/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_htmlparser2@3.10.0@htmlparser2/node_modules/domutils/node_modules/dom-serializer/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_htmlparser2@3.10.0@htmlparser2/node_modules/domutils/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_htmlparser2@3.10.0@htmlparser2/node_modules/domutils/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_htmlparser2@3.10.0@htmlparser2/node_modules/entities/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_htmlparser2@3.10.0@htmlparser2/node_modules/inherits/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_htmlparser2@3.10.0@htmlparser2/node_modules/readable-stream/node_modules/inherits/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_htmlparser2@3.10.0@htmlparser2/node_modules/readable-stream/node_modules/string_decoder/node_modules/safe-buffer/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_htmlparser2@3.10.0@htmlparser2/node_modules/readable-stream/node_modules/string_decoder/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_htmlparser2@3.10.0@htmlparser2/node_modules/readable-stream/node_modules/util-deprecate/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_htmlparser2@3.10.0@htmlparser2/node_modules/readable-stream/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_htmlparser2@3.10.0@htmlparser2/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_inherits@2.0.3@inherits/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_lodash@4.17.11@lodash/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_nth-check@1.0.2@nth-check/node_modules/boolbase/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_nth-check@1.0.2@nth-check/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_parse5@3.0.3@parse5/node_modules/@types/node/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_parse5@3.0.3@parse5/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_readable-stream@3.0.6@readable-stream/node_modules/inherits/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_readable-stream@3.0.6@readable-stream/node_modules/string_decoder/node_modules/safe-buffer/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_readable-stream@3.0.6@readable-stream/node_modules/string_decoder/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_readable-stream@3.0.6@readable-stream/node_modules/util-deprecate/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_readable-stream@3.0.6@readable-stream/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_safe-buffer@5.1.2@safe-buffer/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_string_decoder@1.1.1@string_decoder/node_modules/safe-buffer/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_string_decoder@1.1.1@string_decoder/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/_util-deprecate@1.0.2@util-deprecate/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/boolbase/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/cheerio/node_modules/css-select/node_modules/boolbase/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/cheerio/node_modules/css-select/node_modules/css-what/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/cheerio/node_modules/css-select/node_modules/domutils/node_modules/dom-serializer/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/cheerio/node_modules/css-select/node_modules/domutils/node_modules/dom-serializer/node_modules/entities/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/cheerio/node_modules/css-select/node_modules/domutils/node_modules/dom-serializer/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/cheerio/node_modules/css-select/node_modules/domutils/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/cheerio/node_modules/css-select/node_modules/domutils/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/cheerio/node_modules/css-select/node_modules/nth-check/node_modules/boolbase/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/cheerio/node_modules/css-select/node_modules/nth-check/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/cheerio/node_modules/css-select/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/cheerio/node_modules/dom-serializer/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/cheerio/node_modules/dom-serializer/node_modules/entities/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/cheerio/node_modules/dom-serializer/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/cheerio/node_modules/entities/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/cheerio/node_modules/htmlparser2/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/cheerio/node_modules/htmlparser2/node_modules/domhandler/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/cheerio/node_modules/htmlparser2/node_modules/domutils/node_modules/dom-serializer/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/cheerio/node_modules/htmlparser2/node_modules/domutils/node_modules/dom-serializer/node_modules/entities/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/cheerio/node_modules/htmlparser2/node_modules/domutils/node_modules/dom-serializer/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/cheerio/node_modules/htmlparser2/node_modules/domutils/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/cheerio/node_modules/htmlparser2/node_modules/domutils/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/cheerio/node_modules/htmlparser2/node_modules/entities/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/cheerio/node_modules/htmlparser2/node_modules/inherits/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/inherits/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/string_decoder/node_modules/safe-buffer/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/string_decoder/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/node_modules/util-deprecate/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/cheerio/node_modules/htmlparser2/node_modules/readable-stream/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/cheerio/node_modules/htmlparser2/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/cheerio/node_modules/lodash/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/cheerio/node_modules/parse5/node_modules/@types/node/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/cheerio/node_modules/parse5/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/cheerio/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/css-select/node_modules/boolbase/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/css-select/node_modules/css-what/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/css-select/node_modules/domutils/node_modules/dom-serializer/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/css-select/node_modules/domutils/node_modules/dom-serializer/node_modules/entities/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/css-select/node_modules/domutils/node_modules/dom-serializer/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/css-select/node_modules/domutils/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/css-select/node_modules/domutils/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/css-select/node_modules/nth-check/node_modules/boolbase/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/css-select/node_modules/nth-check/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/css-select/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/css-what/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/dom-serializer/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/dom-serializer/node_modules/entities/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/dom-serializer/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/domhandler/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/domhandler/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/domutils/node_modules/dom-serializer/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/domutils/node_modules/dom-serializer/node_modules/entities/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/domutils/node_modules/dom-serializer/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/domutils/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/domutils/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/entities/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/htmlparser2/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/htmlparser2/node_modules/domhandler/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/htmlparser2/node_modules/domhandler/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/htmlparser2/node_modules/domutils/node_modules/dom-serializer/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/htmlparser2/node_modules/domutils/node_modules/dom-serializer/node_modules/entities/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/htmlparser2/node_modules/domutils/node_modules/dom-serializer/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/htmlparser2/node_modules/domutils/node_modules/domelementtype/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/htmlparser2/node_modules/domutils/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/htmlparser2/node_modules/entities/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/htmlparser2/node_modules/inherits/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/htmlparser2/node_modules/readable-stream/node_modules/inherits/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/htmlparser2/node_modules/readable-stream/node_modules/string_decoder/node_modules/safe-buffer/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/htmlparser2/node_modules/readable-stream/node_modules/string_decoder/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/htmlparser2/node_modules/readable-stream/node_modules/util-deprecate/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/htmlparser2/node_modules/readable-stream/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/htmlparser2/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/inherits/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/lodash/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/nth-check/node_modules/boolbase/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/nth-check/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/parse5/node_modules/@types/node/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/parse5/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/readable-stream/node_modules/inherits/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/readable-stream/node_modules/string_decoder/node_modules/safe-buffer/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/readable-stream/node_modules/string_decoder/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/readable-stream/node_modules/util-deprecate/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/readable-stream/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/safe-buffer/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/string_decoder/node_modules/safe-buffer/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/string_decoder/package.json" />
-      <path value="$PROJECT_DIR$/day03/node_modules/util-deprecate/package.json" />
       <path value="$PROJECT_DIR$/day03/package.json" />
+      <path value="$PROJECT_DIR$/day04/express01/package.json" />
+      <path value="$PROJECT_DIR$/day04/modules/router/package.json" />
+      <path value="$PROJECT_DIR$/day04/modules/static-load/content-type/package.json" />
+      <path value="$PROJECT_DIR$/day04/modules/static-load/package.json" />
+      <path value="$PROJECT_DIR$/day04/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -339,12 +168,20 @@
             <path>
               <item name="nodeLearn" type="b2602c69:ProjectViewProjectNode" />
               <item name="nodeLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="day02" type="462c0819:PsiDirectoryNode" />
+              <item name="day04" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="nodeLearn" type="b2602c69:ProjectViewProjectNode" />
               <item name="nodeLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="day03" type="462c0819:PsiDirectoryNode" />
+              <item name="day04" type="462c0819:PsiDirectoryNode" />
+              <item name="express01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nodeLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nodeLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="day04" type="462c0819:PsiDirectoryNode" />
+              <item name="express01" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -356,8 +193,9 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="EJS" />
     <property name="javascript.nodejs.core.library.configured.version" value="8.12.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -375,31 +213,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.chunk.js">
-    <configuration name="Demo01.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Demo01.js" working-dir="$PROJECT_DIR$/day01">
+  <component name="RunManager" selected="Node.js.index.js (2)">
+    <configuration name="crawler.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="crawler.js" working-dir="$PROJECT_DIR$/day04/static">
       <method v="2" />
     </configuration>
-    <configuration name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/day02">
+    <configuration name="index.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/day04/modules/static-load/content-type">
       <method v="2" />
     </configuration>
-    <configuration name="chunk.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="chunk.js" working-dir="$PROJECT_DIR$/day03">
+    <configuration name="index.js (2)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/day04/express01">
       <method v="2" />
     </configuration>
-    <configuration name="services.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="services.js" working-dir="$PROJECT_DIR$/day02">
+    <configuration name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/day04">
+      <method v="2" />
+    </configuration>
+    <configuration name="service.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="service.js" working-dir="$PROJECT_DIR$/day04">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.Demo01.js" />
-      <item itemvalue="Node.js.app.js" />
-      <item itemvalue="Node.js.services.js" />
-      <item itemvalue="Node.js.chunk.js" />
+      <item itemvalue="Node.js.index.js" />
+      <item itemvalue="Node.js.service.js" />
+      <item itemvalue="Node.js.index.js (1)" />
+      <item itemvalue="Node.js.crawler.js" />
+      <item itemvalue="Node.js.index.js (2)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.chunk.js" />
-        <item itemvalue="Node.js.services.js" />
-        <item itemvalue="Node.js.app.js" />
-        <item itemvalue="Node.js.Demo01.js" />
+        <item itemvalue="Node.js.index.js (2)" />
+        <item itemvalue="Node.js.crawler.js" />
+        <item itemvalue="Node.js.service.js" />
+        <item itemvalue="Node.js.index.js (1)" />
+        <item itemvalue="Node.js.index.js" />
       </list>
     </recent_temporary>
   </component>
@@ -422,16 +265,28 @@
       <workItem from="1541745160114" duration="679000" />
       <workItem from="1541752634200" duration="610000" />
       <workItem from="1541844086563" duration="749000" />
+      <workItem from="1541853542615" duration="1210000" />
+      <workItem from="1541859332993" duration="5908000" />
+      <workItem from="1541904299663" duration="17473000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46875000" />
+    <option name="totallyTimeSpent" value="71466000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15241636" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15241636" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -440,11 +295,11 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.30146083" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32934928" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -485,13 +340,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day02/node_modules/content-type/mime.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7591">
-          <caret line="482" column="28" lean-forward="true" selection-start-line="482" selection-start-column="28" selection-end-line="482" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day01/node_modules/foo/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -520,30 +368,124 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day02/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="35" column="7" selection-start-line="35" selection-start-column="7" selection-end-line="36" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day02/node_modules/_is-buffer@1.1.6@is-buffer/test/basic.js">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day03/chunk.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day03/services.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/day02/node_modules/content-type/mime.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="120" column="22" selection-start-line="120" selection-start-column="10" selection-end-line="120" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="35" column="7" selection-start-line="35" selection-start-column="7" selection-end-line="36" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/day02/services.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        <state relative-caret-position="140">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/modules/content-type/mime.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2320">
+          <caret line="116" column="20" selection-start-line="116" selection-start-column="16" selection-end-line="116" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/modules/content-type/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/modules/static-load/content-type/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/modules/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/modules/static-load/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day03/chunk.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/static/crawler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.ejs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/express01/views/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/express01/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/express01/views/home.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
     </entry>

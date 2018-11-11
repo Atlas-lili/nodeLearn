@@ -1,0 +1,41 @@
+body{
+    width: 1351px;
+    height: 1262px;
+}
+header{
+    height: 73px;
+    width: 1351px;
+    background-color: #ffffff;
+    position: relative;
+}
+section{
+    height: 784px;/* 轮播图完成修改此处 */
+    width: 1351px;
+    background-color: rebeccapurple;
+    position: relative;
+    overflow: hidden;
+}
+section .bannerWhole{
+    height: 2300px;/* 轮播图完成修改此处 */
+    width: 1351px;
+    position: absolute;
+    top: 0px;/* js调整 */
+}
+section .bannerSearch{/* 轮播图完成修改此处定位方式 */
+    width: 60px;
+    height: 130px;
+    background-color: #440062;
+    border-radius: 5px 0 0 5px;
+    position: fixed;/* 后期改为abslout */
+    top: 220px;
+    right: 0px;
+}
+footer{
+    height: 405px;
+    width: 1351px;
+    background-color: #f9f9f9;
+}
+footer .first{
+    height: 267px;
+    background-color: #fcfcfc;
+}
