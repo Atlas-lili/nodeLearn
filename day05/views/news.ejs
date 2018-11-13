@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>news</title>
+    <link rel="stylesheet" href="css/news.css">
+</head>
+<body>
+<ul>
+    <%for(var i=0;i<list.length;i++){%>
+    <li><%=list[i].title%>
+        <a href="<%=list[i].href%>"><%=list[i].href%></a>
+    </li>
+    <%}%>
+</ul>
+<form action="/video" method="post">
+    <input type="text" name="a"><br>
+    <input type="text" name="b">
+    <input type="submit" value="提交">
+</form>
+</body>
+</html>

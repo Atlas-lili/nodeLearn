@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>list</title>
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
+    <style>
+        .container .table tr th,.container .table tr td{text-align: center;}
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1 class="text-center">学生管理系统-----<a href="/add" type="button" class="btn btn-primary">添加学生</a></h1>
+    <table class="table table-bordered">
+        <tr>
+            <th>姓名</th>
+            <th>年龄</th>
+            <th>性别</th>
+            <th>班级</th>
+            <th>操作</th>
+        </tr>
+        <%for(var i=0;i<list.length;i++){%>
+        <tr>
+            <td><%=list[i].name%></td>
+            <td><%=list[i].age%></td>
+            <td>
+                <%if(list[i].sex==='1'){%>
+                    男
+                <%}else if(list[i].sex==='2'){%>
+                    女
+                <%}else{%>
+                    未知
+                <%}%>
+            </td>
+            <td><%=list[i].classname%></td>
+            <td>
+                <a href="/edit?id=<%=list[i]._id%>" type="button" class="btn btn-success">编辑</a>
+                <a type="button" class="btn btn-danger">删除</a>
+            </td>
+        </tr>
+        <%}%>
+    </table>
+</div>
+</body>
+</html>
