@@ -3,21 +3,80 @@
   <component name="ChangeListManager">
     <list default="true" id="987d11ae-c846-4ae1-b0f5-64f16f642ca9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day04/express01/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/day04/express01/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day04/express01/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day04/express01/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day04/express01/views/home.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/day04/express01/views/home.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day04/static/crawler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/.recently_updates.txt" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/.recently_updates.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_accepts@1.3.5@accepts/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_accepts@1.3.5@accepts/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_array-flatten@1.1.1@array-flatten/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_array-flatten@1.1.1@array-flatten/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_body-parser@1.18.3@body-parser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_body-parser@1.18.3@body-parser/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_bson@1.1.0@bson/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_bson@1.1.0@bson/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_bytes@3.0.0@bytes/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_bytes@3.0.0@bytes/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_content-disposition@0.5.2@content-disposition/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_content-disposition@0.5.2@content-disposition/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_content-type@1.0.4@content-type/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_content-type@1.0.4@content-type/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_cookie-signature@1.0.6@cookie-signature/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_cookie-signature@1.0.6@cookie-signature/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_cookie@0.3.1@cookie/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_cookie@0.3.1@cookie/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_debug@2.6.9@debug/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_debug@2.6.9@debug/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_depd@1.1.2@depd/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_depd@1.1.2@depd/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_destroy@1.0.4@destroy/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_destroy@1.0.4@destroy/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_ee-first@1.1.1@ee-first/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_ee-first@1.1.1@ee-first/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_ejs@2.6.1@ejs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_ejs@2.6.1@ejs/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_encodeurl@1.0.2@encodeurl/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_encodeurl@1.0.2@encodeurl/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_escape-html@1.0.3@escape-html/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_escape-html@1.0.3@escape-html/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_etag@1.8.1@etag/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_etag@1.8.1@etag/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_express@4.16.4@express/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_express@4.16.4@express/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_finalhandler@1.1.1@finalhandler/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_finalhandler@1.1.1@finalhandler/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_forwarded@0.1.2@forwarded/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_forwarded@0.1.2@forwarded/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_fresh@0.5.2@fresh/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_fresh@0.5.2@fresh/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_http-errors@1.6.3@http-errors/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_http-errors@1.6.3@http-errors/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_iconv-lite@0.4.23@iconv-lite/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_iconv-lite@0.4.23@iconv-lite/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_inherits@2.0.3@inherits/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_inherits@2.0.3@inherits/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_ipaddr.js@1.8.0@ipaddr.js/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_ipaddr.js@1.8.0@ipaddr.js/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_media-typer@0.3.0@media-typer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_media-typer@0.3.0@media-typer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_memory-pager@1.1.0@memory-pager/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_memory-pager@1.1.0@memory-pager/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_merge-descriptors@1.0.1@merge-descriptors/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_merge-descriptors@1.0.1@merge-descriptors/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_methods@1.1.2@methods/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_methods@1.1.2@methods/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_mime-db@1.37.0@mime-db/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_mime-db@1.37.0@mime-db/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_mime-types@2.1.21@mime-types/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_mime-types@2.1.21@mime-types/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_mime@1.4.1@mime/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_mime@1.4.1@mime/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_mongodb-core@3.1.8@mongodb-core/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_mongodb-core@3.1.8@mongodb-core/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_mongodb@3.1.9@mongodb/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_mongodb@3.1.9@mongodb/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_ms@2.0.0@ms/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_ms@2.0.0@ms/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_negotiator@0.6.1@negotiator/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_negotiator@0.6.1@negotiator/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_on-finished@2.3.0@on-finished/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_on-finished@2.3.0@on-finished/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_parseurl@1.3.2@parseurl/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_parseurl@1.3.2@parseurl/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_path-to-regexp@0.1.7@path-to-regexp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_path-to-regexp@0.1.7@path-to-regexp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_proxy-addr@2.0.4@proxy-addr/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_proxy-addr@2.0.4@proxy-addr/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_qs@6.5.2@qs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_qs@6.5.2@qs/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_range-parser@1.2.0@range-parser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_range-parser@1.2.0@range-parser/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_raw-body@2.3.3@raw-body/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_raw-body@2.3.3@raw-body/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_require_optional@1.0.1@require_optional/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_require_optional@1.0.1@require_optional/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_resolve-from@2.0.0@resolve-from/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_resolve-from@2.0.0@resolve-from/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_safe-buffer@5.1.2@safe-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_safe-buffer@5.1.2@safe-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_safer-buffer@2.1.2@safer-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_safer-buffer@2.1.2@safer-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_saslprep@1.0.2@saslprep/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_saslprep@1.0.2@saslprep/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_semver@5.6.0@semver/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_semver@5.6.0@semver/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_send@0.16.2@send/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_send@0.16.2@send/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_serve-static@1.13.2@serve-static/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_serve-static@1.13.2@serve-static/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_setprototypeof@1.1.0@setprototypeof/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_setprototypeof@1.1.0@setprototypeof/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_sparse-bitfield@3.0.3@sparse-bitfield/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_sparse-bitfield@3.0.3@sparse-bitfield/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_statuses@1.4.0@statuses/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_statuses@1.4.0@statuses/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_statuses@1.5.0@statuses/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_statuses@1.5.0@statuses/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_type-is@1.6.16@type-is/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_type-is@1.6.16@type-is/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_unpipe@1.0.0@unpipe/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_unpipe@1.0.0@unpipe/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_utils-merge@1.0.1@utils-merge/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_utils-merge@1.0.1@utils-merge/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/node_modules/_vary@1.1.2@vary/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/node_modules/_vary@1.1.2@vary/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/views/add.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/views/add.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/views/edit.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/views/edit.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/students/views/list.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/day05/students/views/list.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mymongo/WiredTiger.turtle" beforeDir="false" afterPath="$PROJECT_DIR$/mymongo/WiredTiger.turtle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mymongo/WiredTiger.wt" beforeDir="false" afterPath="$PROJECT_DIR$/mymongo/WiredTiger.wt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mymongo/collection-0-2530636173223299161.wt" beforeDir="false" afterPath="$PROJECT_DIR$/mymongo/collection-0-2530636173223299161.wt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mymongo/collection-2-6005325678050078537.wt" beforeDir="false" afterPath="$PROJECT_DIR$/mymongo/collection-2-6005325678050078537.wt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mymongo/collection-4-6005325678050078537.wt" beforeDir="false" afterPath="$PROJECT_DIR$/mymongo/collection-4-6005325678050078537.wt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mymongo/index-1-2530636173223299161.wt" beforeDir="false" afterPath="$PROJECT_DIR$/mymongo/index-1-2530636173223299161.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymongo/collection-7-6005325678050078537.wt" beforeDir="false" afterPath="$PROJECT_DIR$/mymongo/collection-7-6005325678050078537.wt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mymongo/index-3-6005325678050078537.wt" beforeDir="false" afterPath="$PROJECT_DIR$/mymongo/index-3-6005325678050078537.wt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mymongo/index-5-6005325678050078537.wt" beforeDir="false" afterPath="$PROJECT_DIR$/mymongo/index-5-6005325678050078537.wt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mymongo/index-6-6005325678050078537.wt" beforeDir="false" afterPath="$PROJECT_DIR$/mymongo/index-6-6005325678050078537.wt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mymongo/journal/WiredTigerLog.0000000005" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mymongo/mongod.lock" beforeDir="false" afterPath="$PROJECT_DIR$/mymongo/mongod.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymongo/index-8-6005325678050078537.wt" beforeDir="false" afterPath="$PROJECT_DIR$/mymongo/index-8-6005325678050078537.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mymongo/journal/WiredTigerLog.0000000010" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/mymongo/sizeStorer.wt" beforeDir="false" afterPath="$PROJECT_DIR$/mymongo/sizeStorer.wt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -33,32 +92,35 @@
     <session id="-1979583299">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="13" />
+          <entry key="project.closed" value="18" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.11" value="2" />
-          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.11" value="3" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="ejs" value="3" />
+          <entry key="ejs" value="6" />
           <entry key="html" value="2" />
-          <entry key="js" value="47" />
-          <entry key="json" value="10" />
+          <entry key="js" value="52" />
+          <entry key="json" value="12" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="EJS" value="2" />
+          <entry key="EJS" value="5" />
           <entry key="HTML" value="2" />
-          <entry key="JSON" value="10" />
-          <entry key="JavaScript" value="47" />
+          <entry key="JSON" value="12" />
+          <entry key="JavaScript" value="52" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Scratch" value="1" />
         </counts>
@@ -67,24 +129,34 @@
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="EJS" value="110" />
+          <entry key="EJS" value="199" />
           <entry key="HTML" value="20" />
           <entry key="JSON" value="48" />
-          <entry key="JavaScript" value="7102" />
+          <entry key="JavaScript" value="8071" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="ejs" value="110" />
+          <entry key="ejs" value="199" />
           <entry key="html" value="20" />
-          <entry key="js" value="7102" />
+          <entry key="js" value="8071" />
           <entry key="json" value="48" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day06/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="36" column="24" lean-forward="true" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -125,6 +197,12 @@
         <option value="$PROJECT_DIR$/day04/express01/index.js" />
         <option value="$PROJECT_DIR$/day04/crawler.js" />
         <option value="$PROJECT_DIR$/day04/express01/views/home.ejs" />
+        <option value="$PROJECT_DIR$/day05/students/package.json" />
+        <option value="$PROJECT_DIR$/day05/students/views/list.ejs" />
+        <option value="$PROJECT_DIR$/day05/students/views/add.ejs" />
+        <option value="$PROJECT_DIR$/day05/students/views/edit.ejs" />
+        <option value="$PROJECT_DIR$/day05/students/app.js" />
+        <option value="$PROJECT_DIR$/day06/index.js" />
       </list>
     </option>
   </component>
@@ -140,6 +218,9 @@
     <handled-path value="$PROJECT_DIR$/day03/node_modules" />
     <handled-path value="$PROJECT_DIR$/day04/express01/node_modules" />
     <handled-path value="$PROJECT_DIR$/day04/node_modules" />
+    <handled-path value="$PROJECT_DIR$/day05/node_modules" />
+    <handled-path value="$PROJECT_DIR$/day05/students/node_modules" />
+    <handled-path value="$PROJECT_DIR$/day06/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
@@ -152,6 +233,8 @@
       <path value="$PROJECT_DIR$/day04/modules/static-load/package.json" />
       <path value="$PROJECT_DIR$/day04/package.json" />
       <path value="$PROJECT_DIR$/day05/package.json" />
+      <path value="$PROJECT_DIR$/day05/students/package.json" />
+      <path value="$PROJECT_DIR$/day06/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -164,7 +247,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -175,28 +257,13 @@
             <path>
               <item name="nodeLearn" type="b2602c69:ProjectViewProjectNode" />
               <item name="nodeLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="day03" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nodeLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nodeLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="day04" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nodeLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nodeLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="day04" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nodeLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nodeLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="day05" type="462c0819:PsiDirectoryNode" />
+              <item name="day06" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -222,36 +289,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.index.js (2)">
+  <component name="RunManager" selected="Node.js.index.js">
+    <configuration name="edit.ejs" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/nodeLearn/day05/students/views/edit.ejs">
+      <method v="2" />
+    </configuration>
+    <configuration name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/day05/students">
+      <method v="2" />
+    </configuration>
     <configuration name="crawler.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="crawler.js" working-dir="$PROJECT_DIR$/day04">
-      <method v="2" />
-    </configuration>
-    <configuration name="crawler.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="crawler.js" working-dir="$PROJECT_DIR$/day04/static">
-      <method v="2" />
-    </configuration>
-    <configuration name="index.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/day04/modules/static-load/content-type">
       <method v="2" />
     </configuration>
     <configuration name="index.js (2)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/day04/express01">
       <method v="2" />
     </configuration>
-    <configuration name="service.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="service.js" working-dir="$PROJECT_DIR$/day04">
+    <configuration name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/day06">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.service.js" />
-      <item itemvalue="Node.js.index.js (1)" />
-      <item itemvalue="Node.js.crawler.js" />
       <item itemvalue="Node.js.index.js (2)" />
       <item itemvalue="Node.js.crawler.js (1)" />
+      <item itemvalue="Node.js.app.js" />
+      <item itemvalue="Node.js.index.js" />
+      <item itemvalue="JavaScript Debug.edit.ejs" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.index.js" />
+        <item itemvalue="Node.js.app.js" />
+        <item itemvalue="JavaScript Debug.edit.ejs" />
         <item itemvalue="Node.js.index.js (2)" />
         <item itemvalue="Node.js.crawler.js (1)" />
-        <item itemvalue="Node.js.crawler.js" />
-        <item itemvalue="Node.js.service.js" />
-        <item itemvalue="Node.js.index.js (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -278,11 +345,16 @@
       <workItem from="1541859332993" duration="5908000" />
       <workItem from="1541904299663" duration="17473000" />
       <workItem from="1541945050674" duration="3568000" />
+      <workItem from="1542113989325" duration="1212000" />
+      <workItem from="1542160955490" duration="4612000" />
+      <workItem from="1542184574806" duration="5796000" />
+      <workItem from="1542199481739" duration="627000" />
+      <workItem from="1542541233092" duration="1987000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75034000" />
+    <option name="totallyTimeSpent" value="89268000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -461,16 +533,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day04/static/crawler.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-400">
-          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day05/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/static/crawler.js" />
     <entry file="file://$PROJECT_DIR$/day04/express01/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -485,10 +548,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day04/express01/views/home.ejs">
+    <entry file="file://$PROJECT_DIR$/day04/express01/views/home.ejs" />
+    <entry file="file://$PROJECT_DIR$/day05/students/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+        <state relative-caret-position="240">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day05/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day05/students/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="81" column="34" selection-start-line="81" selection-start-column="34" selection-end-line="81" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day05/students/views/edit.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day05/students/views/add.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="93" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day05/students/views/list.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="36" column="24" lean-forward="true" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
         </state>
       </provider>
     </entry>

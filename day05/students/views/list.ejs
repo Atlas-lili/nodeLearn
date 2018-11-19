@@ -15,6 +15,7 @@
     <table class="table table-bordered">
         <tr>
             <th>姓名</th>
+            <th>头像</th>
             <th>年龄</th>
             <th>性别</th>
             <th>班级</th>
@@ -23,6 +24,7 @@
         <%for(var i=0;i<list.length;i++){%>
         <tr>
             <td><%=list[i].name%></td>
+            <td><img src="<%=list[i].pic%>" alt="<%=list[i].name%>" width="100px"></td>
             <td><%=list[i].age%></td>
             <td>
                 <%if(list[i].sex==='1'){%>
@@ -36,7 +38,7 @@
             <td><%=list[i].classname%></td>
             <td>
                 <a href="/edit?id=<%=list[i]._id%>" type="button" class="btn btn-success">编辑</a>
-                <a type="button" class="btn btn-danger">删除</a>
+                <a href="/delete?id=<%=list[i]._id%>" type="button" class="btn btn-danger">删除</a>
             </td>
         </tr>
         <%}%>
