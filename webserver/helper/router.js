@@ -6,7 +6,9 @@ const readdir = promisify(fs.readdir);
 const Handlebars = require('handlebars');
 const mimeFun = require('./mime');
 const conf = require('../config/defaultConfig');
-const compress = require('./compress')
+const compress = require('./compress');
+const range = require('./range');
+const isFresh = require('./cache');
 
 const tlppath = path.join(__dirname, '../template/dir.tpl');
 const source = fs.readFileSync(tlppath);
@@ -19,9 +21,23 @@ module.exports = async function (req, res, filePath) {
         const stats = await stat(filePath);
         if (stats.isFile()) {
             const ContentType = mimeFun(filePath);
-            res.statusCode = 200;
             res.setHeader('Content-Type', ContentType);
-            let rs = fs.createReadStream(filePath);
+            if (isFresh(stats, req, res)) {
+                res.statusCode = 304;
+                res.end();
+                return;
+            }
+
+
+            const {code, start, end} = range(stats.size, req, res);
+            let rs;
+            if (code === 200) {
+                res.statusCode = code;
+                rs = fs.createReadStream(filePath);
+            } else {
+                res.statusCode = code;
+                rs = fs.createReadStream(filePath, {start, end});
+            }
             if (filePath.match(conf.compresss)) {
                 rs = compress(rs, req, res);
             }
@@ -45,7 +61,6 @@ module.exports = async function (req, res, filePath) {
         }
     } catch (e) {
         console.error(e);
-        console.log(3);
         res.statusCode = 404;
         res.setHeader('Content-Type', 'text/plain');
         res.end('404 NOT FOUND');

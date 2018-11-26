@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="987d11ae-c846-4ae1-b0f5-64f16f642ca9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/webserver/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/config/defaultConfig.js" beforeDir="false" afterPath="$PROJECT_DIR$/webserver/config/defaultConfig.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webserver/helper/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/webserver/helper/router.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,20 +20,20 @@
     <session id="-1979583299">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="23" />
+          <entry key="project.closed" value="26" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="5" />
           <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.13" value="3" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="24" />
+          <entry key="project.open.time.9" value="4" />
+          <entry key="project.opened" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -38,7 +41,7 @@
           <entry key="cmd" value="1" />
           <entry key="ejs" value="7" />
           <entry key="html" value="2" />
-          <entry key="js" value="69" />
+          <entry key="js" value="74" />
           <entry key="json" value="13" />
           <entry key="tpl" value="1" />
           <entry key="txt" value="1" />
@@ -49,7 +52,7 @@
           <entry key="EJS" value="6" />
           <entry key="HTML" value="2" />
           <entry key="JSON" value="13" />
-          <entry key="JavaScript" value="69" />
+          <entry key="JavaScript" value="74" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="Scratch" value="1" />
         </counts>
@@ -61,7 +64,7 @@
           <entry key="EJS" value="212" />
           <entry key="HTML" value="20" />
           <entry key="JSON" value="48" />
-          <entry key="JavaScript" value="13496" />
+          <entry key="JavaScript" value="14915" />
           <entry key="PLAIN_TEXT" value="150" />
         </counts>
       </usages-collector>
@@ -69,7 +72,7 @@
         <counts>
           <entry key="ejs" value="212" />
           <entry key="html" value="20" />
-          <entry key="js" value="13496" />
+          <entry key="js" value="14915" />
           <entry key="json" value="48" />
           <entry key="tpl" value="150" />
         </counts>
@@ -79,19 +82,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day07/fs/index.js">
+        <entry file="file://$PROJECT_DIR$/webserver/helper/range.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1620">
-              <caret line="81" column="18" selection-start-line="81" selection-start-column="18" selection-end-line="81" selection-end-column="18" />
+            <state relative-caret-position="300">
+              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webserver/app.js">
+        <entry file="file://$PROJECT_DIR$/webserver/helper/router.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="44" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="10" />
+            <state relative-caret-position="420">
+              <caret line="21" column="17" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webserver/helper/cache.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" column="74" selection-start-line="14" selection-start-column="74" selection-end-line="14" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -99,44 +111,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webserver/config/defaultConfig.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" column="22" lean-forward="true" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webserver/helper/mime.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9700">
-              <caret line="485" column="50" selection-start-line="485" selection-start-column="50" selection-end-line="485" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webserver/template/dir.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+            <state relative-caret-position="40">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/webserver/helper/router.js">
+        <entry file="file://$PROJECT_DIR$/webserver/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webserver/helper/compress.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" column="40" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="40" />
+            <state relative-caret-position="100">
+              <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -194,12 +179,14 @@
         <option value="$PROJECT_DIR$/day07/events/index.js" />
         <option value="$PROJECT_DIR$/day07/fs/index.js" />
         <option value="$PROJECT_DIR$/webserver/config/helper/router.js" />
-        <option value="$PROJECT_DIR$/webserver/app.js" />
         <option value="$PROJECT_DIR$/webserver/helper/mime.js" />
         <option value="$PROJECT_DIR$/webserver/template/dir.tpl" />
-        <option value="$PROJECT_DIR$/webserver/config/defaultConfig.js" />
         <option value="$PROJECT_DIR$/webserver/helper/compress.js" />
+        <option value="$PROJECT_DIR$/webserver/helper/range.js" />
+        <option value="$PROJECT_DIR$/webserver/config/defaultConfig.js" />
         <option value="$PROJECT_DIR$/webserver/helper/router.js" />
+        <option value="$PROJECT_DIR$/webserver/app.js" />
+        <option value="$PROJECT_DIR$/webserver/helper/cache.js" />
       </list>
     </option>
   </component>
@@ -230,7 +217,7 @@
       <path value="$PROJECT_DIR$/webserver/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="width" value="1390" />
     <option name="height" value="1756" />
@@ -240,28 +227,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="nodeLearn" type="b2602c69:ProjectViewProjectNode" />
               <item name="nodeLearn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nodeLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nodeLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="day01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nodeLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nodeLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="day07" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nodeLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nodeLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="day07" type="462c0819:PsiDirectoryNode" />
-              <item name="fs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="nodeLearn" type="b2602c69:ProjectViewProjectNode" />
@@ -284,7 +256,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -319,32 +290,32 @@
     <configuration name="app.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/webserver">
       <method v="2" />
     </configuration>
-    <configuration name="index.js (2)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/day07/events">
-      <method v="2" />
-    </configuration>
-    <configuration name="index.js (3)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/day07/buffer">
+    <configuration name="cache.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="cache.js" working-dir="$PROJECT_DIR$/webserver/helper">
       <method v="2" />
     </configuration>
     <configuration name="index.js (4)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/day07/fs">
+      <method v="2" />
+    </configuration>
+    <configuration name="range.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="range.js" working-dir="$PROJECT_DIR$/webserver/helper">
       <method v="2" />
     </configuration>
     <configuration name="router.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="router.js" working-dir="$PROJECT_DIR$/webserver/helper">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.index.js (3)" />
-      <item itemvalue="Node.js.index.js (2)" />
       <item itemvalue="Node.js.index.js (4)" />
       <item itemvalue="Node.js.app.js (1)" />
       <item itemvalue="Node.js.router.js" />
+      <item itemvalue="Node.js.range.js" />
+      <item itemvalue="Node.js.cache.js" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Node.js.app.js (1)" />
+        <item itemvalue="Node.js.cache.js" />
+        <item itemvalue="Node.js.range.js" />
         <item itemvalue="Node.js.router.js" />
         <item itemvalue="Node.js.index.js (4)" />
-        <item itemvalue="Node.js.index.js (2)" />
-        <item itemvalue="Node.js.index.js (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -381,12 +352,14 @@
       <workItem from="1542766210462" duration="7152000" />
       <workItem from="1542789097861" duration="5408000" />
       <workItem from="1542879654737" duration="5662000" />
-      <workItem from="1543029509321" duration="15012000" />
+      <workItem from="1543029509321" duration="15326000" />
+      <workItem from="1543133409124" duration="12181000" />
+      <workItem from="1543238740176" duration="598000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="124833000" />
+    <option name="totallyTimeSpent" value="137926000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -399,14 +372,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15241636" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33466136" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33466136" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997344" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -449,12 +421,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day01/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01/node_modules/foo/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/day01/node_modules/myapi/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -688,24 +654,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webserver/helper/compress.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="40" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/webserver/helper/mime.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9700">
           <caret line="485" column="50" selection-start-line="485" selection-start-column="50" selection-end-line="485" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webserver/config/defaultConfig.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="22" lean-forward="true" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -716,17 +668,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webserver/app.js">
+    <entry file="file://$PROJECT_DIR$/webserver/helper/compress.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="44" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="10" />
+        <state relative-caret-position="20">
+          <caret line="1" column="40" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webserver/helper/range.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webserver/helper/router.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+        <state relative-caret-position="420">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webserver/helper/cache.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="74" selection-start-line="14" selection-start-column="74" selection-end-line="14" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webserver/config/defaultConfig.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webserver/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
         </state>
       </provider>
     </entry>
